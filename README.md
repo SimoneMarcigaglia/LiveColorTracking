@@ -1,7 +1,7 @@
 # LiveColorTracking
 track custom color in live webcam feed
 
-# Instructions
+## Instructions
 Install the required packages in a custom conda environment by running the following command:
 
 ```bash
@@ -20,7 +20,7 @@ and then run the program with:
 python main.py
 ```
 
-# Result
+## Result
 
 All objects in the selected RGB colour will be tracked in the webcam feed like so:
 
